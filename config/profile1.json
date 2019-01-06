@@ -1,0 +1,12 @@
+{
+    "firstName": "Example",
+    "lastName": "Profile",
+    "street": "Definitely A Real Street Rd",
+    "streetNum": "123",
+    "zip": "12345",
+    "city": "Bronx",
+    "phone": "1234567890",
+    "email": "notarealemail@bstn.com",
+    "password": "yourbstnpasswordhere",
+    "proxy": "http://localhost:8080"
+}
