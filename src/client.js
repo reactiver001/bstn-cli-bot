@@ -2,7 +2,7 @@ const request = require('request')
 const cheerio = require('cheerio')
 const logger = require('./logger')
 
-class client {
+class BSTNClient {
     constructor(config) {
         // init private vars
         this._config = config
@@ -172,4 +172,4 @@ class client {
     }
 }
 
-module.exports = client
+module.exports = BSTNClient
